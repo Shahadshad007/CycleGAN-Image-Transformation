@@ -11,7 +11,7 @@ The **Horse2Zebra** dataset is part of the collection of datasets for CycleGAN a
 
 ### Dataset Location
 
-You can download the Horse2Zebra dataset from [this link](https://people.eecs.berkeley.edu/~jonathan/cyclegan/datasets/). Extract the dataset into the `horse2zebraA` and `horse2zebraB` folders in the directory.
+You can download the Horse2Zebra dataset from [this link](datasets). Extract the dataset into the `horse2zebraA` and `horse2zebraB` folders in the directory.
 
 ## Model Overview
 
